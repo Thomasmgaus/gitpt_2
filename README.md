@@ -4,4 +4,6 @@ Changes:
 
 Added v1 tag.
 new branch called new
-deleted dir2 
+deleted dir2
+
+"revised Readme"
